@@ -1,0 +1,242 @@
+.HHA{
+    background-color: rgb(197, 185, 185);
+}
+.sec-1{
+    display: flex;
+}
+.p-1{
+    padding: 200px 0 0 200px;
+}
+.heading{
+    font-size: 40px ;
+    
+}
+.heading h1{
+    margin-top: -30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.name{
+    font-size: 25px;
+    background-color: rgb(225, 225, 62);
+    width :470px;
+    margin-top: -10px;
+    padding-left: 10px;
+}
+.des
+{
+    margin-right: 500px;
+    font-size: 15px;
+}
+.sec-1 button{
+    font-size: 20px;
+    margin: 50px 0 0 50px;
+    border-radius: 50px 50px 50px ;
+    border-color: aliceblue;
+    height: 8%;
+    width: 19%;
+    background-color: rgb(225, 225, 62); 
+    font-weight: 500px;
+}
+.jall{
+    opacity: 80%;
+    color:goldenrod
+}
+.imma img{
+    width: 900px;
+    height: 100%;
+}
+.ima img{
+    padding-top: 50px;
+    width: 400px;
+    padding-bottom: 45px;    
+    height: 40%;
+}
+.side h3{
+    font-size: 22px;
+    padding: 0px 50px 12px 80px;
+    height: -15%;
+    
+
+}
+.side{
+    background-color:rgb(225, 225, 62) ;
+    width: 400px;
+    margin-top: -50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+.sec-2{
+    display: flex;
+}
+.main{
+    padding: 75px 0 0 200px;
+    
+}
+.main h1{
+    text-align: center;
+    font-size: 100px;
+    width: 1300px;
+    height: 10%;
+    border: 1px dotted;
+    padding: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 3px 3px 5px  black;
+}
+.ip{
+    font-size: 40px;
+    margin-bottom: -5px;
+    margin-top: -30px;
+}
+.ob{
+    font-weight: bolder;
+}
+.op{
+    font-size: 15px;
+    padding-right: 100px;
+}
+.bla{
+    background-color: black;
+    height: 400px;
+    width: 800px;
+    margin-top: 70px;
+}
+
+.pp-1{
+    border-bottom: 1px solid yellow ;
+    width: 280px;
+    margin: -40px 0 0 50px;
+    height: 50%;
+    
+}
+.h11{
+    color: rgb(225, 225, 62);
+    margin: 40px 0 0 80px;
+    font-size: 80px;
+    height: 20px;
+    width: 80px;
+    text-align: center;
+    place-items: center;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+   
+ }
+ .ppp-1{
+    color: white;
+    margin-left: -30px;
+    font-size: 20px;
+    margin-top: 50px;
+    text-align: center;
+    place-items: center;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+ }
+ .pp-2{
+    width: 300px;
+    height: 10px;
+    margin-left: 70px;
+}
+.h12{
+    color: rgb(225, 225, 62);
+    margin-top: 30px;
+    font-size: 80px;
+    margin-left: 70px;    
+    width: 80px;
+    text-align: center;
+    place-items: center;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    
+ }
+ .ppp-2{
+    color: white;
+    margin-top: -130px;
+    margin-left: -90px;
+    font-size: 20px;
+    text-align: center;
+    place-items: center;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+ }
+.line h1{
+    color: black;
+    font-size: 20px; 
+    width: 1px;
+    height: 200px;
+    margin-left: 300px;
+    border-right: 1px solid rgb(225, 225, 62);
+    margin-top: -200px;
+}
+
+
+.pp-3{
+    border-bottom: 1px solid yellow ;
+    width: 280px;
+    margin: 110px 0 -83px -340px;
+    height: 32%;    
+}
+.h13{
+    color: rgb(225, 225, 62);
+    font-size: 80px;
+    margin-top: 0px;
+    margin-left: 50px;
+}
+.all{
+    display: flex;
+    margin-top: -30px;
+}
+.ppp-3{
+    color: white;
+    margin-top: -110px;
+    margin-left: 50px;
+    font-size: 20px;
+    margin-bottom: 50px;
+ }
+ .pp-4{
+    width: 280px;
+    margin: 50px 0 0 -340px;
+    color:aliceblue;    
+}
+.h14{
+    font-size: 80px;
+    margin-left: 60px;
+    color: rgb(225, 225, 62);
+}
+.ppp-4{
+    font-size: 20px;
+    margin: -110px 0 0 70px;
+}
+
+/* font{
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.HHA{
+    background-color: rgb(197, 185, 185);
+    font-family: "Poppins", sans-sarif;
+}
+
+} */
+.what{
+    margin: 50px 0 -10px 100px;
+    font-size: 40px;
+}
+.what h4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.what p{
+    font-size: 10px;
+    margin-right: 200px;
+    margin-left: 50px;
+}
+.All{
+    display: flex;
+}
